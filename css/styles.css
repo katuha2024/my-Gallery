@@ -27,6 +27,12 @@ ol {
   margin: 0;
   padding-left: 0;
 }
+.title{
+  font-weight: 700;
+  font-size: 34px;
+  text-align: center;
+  color: white;
+}
 
 .gallery {
   display: flex;
